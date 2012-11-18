@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    sprockets-caches (0.0.1)
+      sprockets-cache-memcache
+      sprockets-cache-mongodb
+      sprockets-cache-redis
+      sprockets-cache-riak
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    sprockets-cache-memcache (0.0.1)
+    sprockets-cache-mongodb (0.0.2)
+    sprockets-cache-redis (0.0.3)
+    sprockets-cache-riak (0.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sprockets-caches!

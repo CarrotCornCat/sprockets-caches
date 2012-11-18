@@ -1,0 +1,1 @@
+require "sprockets-caches/version"
