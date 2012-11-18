@@ -1,6 +1,6 @@
 # Sprockets Caches
 
-Meta gem for different sprocket cache store implementations like Memcache, MongoDb, Redis and Riak.
+Meta gem for different sprocket cache store implementations like Memcache, MongoDB, Redis and Riak.
 
 ## Usage
 
