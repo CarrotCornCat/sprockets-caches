@@ -1,5 +1,7 @@
 # Sprockets Caches
 
+[![Join the chat at https://gitter.im/abstellgleis/sprockets-caches](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/abstellgleis/sprockets-caches?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Meta gem for different sprocket cache store implementations like Memcache, MongoDB, Redis and Riak.
 
 ## Usage
